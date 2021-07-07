@@ -1,0 +1,5 @@
+Create a directory for your file
+Use touch to make your file
+Type this exact text currently in this file into it
+git add . to add the files in the working directory, or add index.txt if you just want the one file.
+git commit -m "Submission Complete!"
